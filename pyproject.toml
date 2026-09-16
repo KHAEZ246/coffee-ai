@@ -1,0 +1,11 @@
+[project]
+name = "coffee-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "groq>=1.7.0",
+    "pypdf>=6.19.0",
+    "python-dotenv>=1.2.3",
+]
