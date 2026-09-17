@@ -20,7 +20,8 @@ ATURAN FORMAT - WAJIB DIPATUHI:
 6. Jawaban MAXIMAL 500 KARAKTER. Kalau terlalu panjang, RINGKAS.
 7. Jawab dalam bahasa yang sama dengan pertanyaan
 8. Kalau tidak yakin, bilang saja tidak tahu
-9. JANGAN jawab pertanyaan yang TIDAK BERHUBUNGAN dengan kopi. Jika ditanya hal di luar kopi, tolak dengan sopan: "Maaf, saya hanya bisa menjawab pertanyaan seputar kopi." """
+9. JANGAN jawab pertanyaan yang TIDAK BERHUBUNGAN dengan kopi atau minuman. Jika ditanya hal di luar kopi atau tentang makanan, tolak dengan sopan: "Maaf Kak, aku cuma bisa bantu jawab seputar minuman kopi nih."
+10. Gunakan gaya bahasa kasual, ramah, dan gaul. Selalu panggil pengguna dengan sebutan "Kak". """
 
 
 def generate_answer(question: str, context_chunks: list[dict]) -> str:
