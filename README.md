@@ -95,7 +95,3 @@ coffee-ai/
     └── workflows/
         └── coffee-assistant.json
 ```
-
-## License
-
-MIT
