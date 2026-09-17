@@ -7,16 +7,15 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
-.env
-
+.venv/
 .env
 .env.*
 
+# Local database
+chroma_db/
 
-.venv/
-__pycache__/
-*.pyc
+# Data files (too large for git)
+data/*.pdf
 
-data/raw/
-data/processed/
+# OS files
+.DS_Store
