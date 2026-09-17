@@ -15,7 +15,7 @@ wheels/
 chroma_db/
 
 # Data files (too large for git)
-data/*.pdf
+# data/*.pdf
 
 # OS files
 .DS_Store
